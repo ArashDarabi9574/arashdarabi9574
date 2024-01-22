@@ -1,5 +1,4 @@
 <h1 align="center">Hi 👋, I'm Arash Darabi</h1>
-<img align="right" alt="Coding" width="400" src="https://necessary-disorder.tumblr.com/post/157102145473">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=arashdarabi9574&label=Profile%20views&color=0e75b6&style=flat" alt="arashdarabi9574" /> </p>
 
@@ -21,7 +20,7 @@
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=arashdarabi9574&show_icons=true&locale=en&layout=compact" alt="arashdarabi9574" /></p>
 
 
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=arashdarabi9574&show_icons=true&locale=en" alt="arashdarabi9574" /></p>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=arashdarabi9574&" alt="arashdarabi9574" /></p>
 
  
