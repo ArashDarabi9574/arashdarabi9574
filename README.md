@@ -3,13 +3,13 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=arashdarabi9574&label=Profile%20views&color=0e75b6&style=flat" alt="arashdarabi9574" /> </p>
 
-- 🔭 I’m currently working on **alizadeh-watch Shop**
+- 🔭 I’m currently working on: **alizadeh-watch Shop**
 
-- 🤝 I’m looking for help with [Mizfa](https://github.com/orgs/Mizfa-Tech/repositories)
+- 🤝 I’m currently working with: [Mizfa](https://github.com/orgs/Mizfa-Tech/repositories)
 
-- 💬 Ask me about **Djnago Backend, Python, Rest API**
+- 💬 Ask me about: **Djnago, Python, Rest API**
 
-- 📫 How to reach me **The fastest way to message me is on Telegram. My ID is @arashdarabi99.**
+- 📫 How to reach me: **The fastest way to message me is on Telegram. My ID is @arashdarabi99.**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
@@ -20,7 +20,7 @@
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=arashdarabi9574&show_icons=true&locale=en&layout=compact" alt="arashdarabi9574" /></p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=arashdarabi9574&show_icons=true&locale=en" alt="arashdarabi9574" /></p>
+
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=arashdarabi9574&" alt="arashdarabi9574" /></p>
 
