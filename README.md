@@ -4,7 +4,7 @@
 
 - 🔭 I’m currently working on: **alizadeh-watch Shop**
 
-- 🤝 I’m currently working with: [Mizfa]([https://github.com/orgs/Mizfa-Tech/repositories](https://mizfa.com/website-portfolio/))
+- 🤝 I’m currently working with: [Mizfa]([https://mizfa.com/website-portfolio/])
 
 - 💬 Ask me about: **Djnago, Python, Rest API**
 
