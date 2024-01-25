@@ -8,7 +8,7 @@
 
 - 💬 Ask me about: **Djnago, Python, Rest API**
 
-- 📫 How to reach me: **The fastest way to message me is on Telegram. My ID is @arashdarabi99.**
+- 📫 How to reach me: **The fastest way to message me is on Telegram. My ID is [@arashdarabi99](https://t.me/arashdarabi99)**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
