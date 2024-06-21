@@ -3,9 +3,9 @@
 </p>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=arashdarabi9574&label=Profile%20views&color=0e75b6&style=flat" alt="arashdarabi9574" /> </p>
 
-- 🔭 𝐈’𝐦 𝐜𝐮𝐫𝐫𝐞𝐧𝐭𝐥𝐲 𝐰𝐨𝐫𝐤𝐢𝐧𝐠 𝐨𝐧: [𝐀𝐥𝐢𝐳𝐚𝐝𝐞𝐡 𝐒𝐡𝐨𝐩](https://alizade-watchgallery.com/)
+- 🔭 𝐈’𝐦 𝐜𝐮𝐫𝐫𝐞𝐧𝐭𝐥𝐲 𝐰𝐨𝐫𝐤𝐢𝐧𝐠 𝐨𝐧: **𝐃𝐣𝐧𝐚𝐠𝐨 & 𝐑𝐞𝐬𝐭 𝐀𝐏𝐈**
 
-- 💬 𝐀𝐬𝐤 𝐦𝐞 𝐚𝐛𝐨𝐮𝐭: **𝐃𝐣𝐧𝐚𝐠𝐨 & 𝐑𝐞𝐬𝐭 𝐀𝐏𝐈**
+- 💬 𝐀𝐬𝐤 𝐦𝐞 𝐚𝐛𝐨𝐮𝐭: **𝐁𝐚𝐜𝐤𝐞𝐧𝐝 & 𝐏𝐲𝐭𝐡𝐨𝐧**
 
 - 📫 𝐇𝐨𝐰 𝐭𝐨 𝐫𝐞𝐚𝐜𝐡 𝐦𝐞: **𝐓𝐡𝐞 𝐟𝐚𝐬𝐭𝐞𝐬𝐭 𝐰𝐚𝐲 𝐭𝐨 𝐦𝐞𝐬𝐬𝐚𝐠𝐞 𝐦𝐞 𝐢𝐬 𝐨𝐧 𝐓𝐞𝐥𝐞𝐠𝐫𝐚𝐦. 𝐌𝐲 𝐈𝐃 𝐢𝐬 [@arashdarabi99](https://t.me/arashdarabi99)**
 
