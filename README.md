@@ -9,8 +9,12 @@ Let’s see where this goes.
 </p>
 
 <h3 align="left">Main Tools & Framework: </h3>
-<p align="left"> <a href="https://www.linux.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a><a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a><a href="https://www.djangoproject.com/" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/django.svg" alt="django" width="40" height="40"/> </a>
-<a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/mysql-3.svg" alt="MySQL" width="40" height="40"/> </a><a href="https://www.docker.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" alt="docker" width="40" height="40"/> </a><a href="https://redis.io/" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/redis.svg" alt="Redis" width="40" height="40"/> </a>
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="50" height="50"/>
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="50" height="50"/>
+<img src="https://cdn.worldvectorlogo.com/logos/django.svg" alt="django" width="50" height="50"/>
+<img src="https://cdn.worldvectorlogo.com/logos/mysql-3.svg" alt="MySQL" width="50" height="50"/>
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" alt="docker" width="50" height="50"/>
+<img src="https://cdn.worldvectorlogo.com/logos/redis.svg" alt="Redis" width="50" height="50"/>
 <h3 align="left">GitHub Stats: </h3>
 
 ![](https://github-readme-stats.vercel.app/api?username=arashdarabi9574&theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
